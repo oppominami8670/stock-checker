@@ -1,0 +1,13 @@
+{
+  "name": "Stock Checker",
+  "short_name": "Stock Checker",
+  "description": "国内株・米国株の配当観測アプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#0f172a",
+  "lang": "ja",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
